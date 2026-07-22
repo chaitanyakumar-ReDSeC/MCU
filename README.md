@@ -7,15 +7,15 @@
 [![01 Iron Man](https://img.shields.io/badge/01-Iron_Man-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/iron-man-2008/)
 [![02 The Incredible Hulk](https://img.shields.io/badge/02-The_Incredible_Hulk-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/the-incredible-hulk-2008/)
 [![03 Iron Man 2](https://img.shields.io/badge/03-Iron_Man_2-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/iron-man-2-2010/)
-[![04 Thor](https://img.shields.io/badge/04-Thor-F0131E?style=for-the-badge)]()
-[![05 Captain America: The First Avenger](https://img.shields.io/badge/05-Captain_America:_The_First_Avenger-F0131E?style=for-the-badge)]()
-[![06 The Avengers](https://img.shields.io/badge/06-The_Avengers-F0131E?style=for-the-badge)]()
+[![04 Thor](https://img.shields.io/badge/04-Thor-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/thor-2011/)
+[![05 Captain America: The First Avenger](https://img.shields.io/badge/05-Captain_America:_The_First_Avenger-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/captain-america-the-first-avenger-2011/)
+[![06 The Avengers](https://img.shields.io/badge/06-The_Avengers-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/the-avengers-2012/)
 
 <h1 align="center"> Phase 2 </h1>
 
-[![07 Iron Man 3](https://img.shields.io/badge/07-Iron_Man_3-F0131E?style=for-the-badge)]()
+[![07 Iron Man 3](https://img.shields.io/badge/07-Iron_Man_3-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/iron-man-three-2013/)
 [![08 Thor: The Dark World](https://img.shields.io/badge/08-Thor:_The_Dark_World-F0131E?style=for-the-badge)]()
-[![09 Captain America: The Winter Soldier](https://img.shields.io/badge/09-Captain_America:_The_Winter_Soldier-F0131E?style=for-the-badge)]()
+[![09 Captain America: The Winter Soldier](https://img.shields.io/badge/09-Captain_America:_The_Winter_Soldier-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/captain-america-the-winter-soldier-2014/)
 [![10 Guardians of the Galaxy](https://img.shields.io/badge/10-Guardians_of_the_Galaxy-F0131E?style=for-the-badge)]()
 [![11 Avengers: Age of Ultron](https://img.shields.io/badge/11-Avengers:_Age_of_Ultron-F0131E?style=for-the-badge)]()
 [![12 Ant-Man](https://img.shields.io/badge/12-Ant--Man-F0131E?style=for-the-badge)]()
@@ -38,7 +38,7 @@
 
 <h1 align="center"> Phase 3 </h1>
 
-[![26 Captain America: Civil War](https://img.shields.io/badge/26-Captain_America:_Civil_War-F0131E?style=for-the-badge)]()
+[![26 Captain America: Civil War](https://img.shields.io/badge/26-Captain_America:_Civil_War-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/captain-america-civil-war-2016/)
 [![27 Doctor Strange](https://img.shields.io/badge/27-Doctor_Strange-F0131E?style=for-the-badge)]()
 [![28 Guardians of the Galaxy Vol. 2](https://img.shields.io/badge/28-Guardians_of_the_Galaxy_Vol._2-F0131E?style=for-the-badge)]()
 [![29 Spider-Man: Homecoming](https://img.shields.io/badge/29-Spider--Man:_Homecoming-F0131E?style=for-the-badge)]()
