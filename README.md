@@ -2,6 +2,8 @@
   <img src="https://www.freepnglogos.com/uploads/marvel-logo-png/image-marvel-studios-logo-marvel-database-2.png" height=80px>
 </p>
 
+> Click on the badge to watch the respective movie/series. Note that series are mapped to official platform (HotStar), while movies are mapped to the YTS channel for login-less streaming.
+
 <h1 align="center"> Phase 1 </h1>
 
 [![01 Iron Man](https://img.shields.io/badge/01-Iron_Man-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/iron-man-2008/)
@@ -22,19 +24,19 @@
 
 <h1 align="center"> The Defenders Saga </h1>
 
-[![13 Daredevil (Season 1)](https://img.shields.io/badge/13-Daredevil_(Season_1)-F0131E?style=for-the-badge)]()
-[![14 Jessica Jones (Season 1)](https://img.shields.io/badge/14-Jessica_Jones_(Season_1)-F0131E?style=for-the-badge)]()
-[![15 Daredevil (Season 2)](https://img.shields.io/badge/15-Daredevil_(Season_2)-F0131E?style=for-the-badge)]()
-[![16 Luke Cage (Season 1)](https://img.shields.io/badge/16-Luke_Cage_(Season_1)-F0131E?style=for-the-badge)]()
-[![17 Iron Fist (Season 1)](https://img.shields.io/badge/17-Iron_Fist_(Season_1)-F0131E?style=for-the-badge)]()
-[![18 The Defenders](https://img.shields.io/badge/18-The_Defenders-F0131E?style=for-the-badge)]()
-[![19 The Punisher (Season 1)](https://img.shields.io/badge/19-The_Punisher_(Season_1)-F0131E?style=for-the-badge)]()
-[![20 Jessica Jones (Season 2)](https://img.shields.io/badge/20-Jessica_Jones_(Season_2)-F0131E?style=for-the-badge)]()
-[![21 Luke Cage (Season 2)](https://img.shields.io/badge/21-Luke_Cage_(Season_2)-F0131E?style=for-the-badge)]()
-[![22 Iron Fist (Season 2)](https://img.shields.io/badge/22-Iron_Fist_(Season_2)-F0131E?style=for-the-badge)]()
-[![23 Daredevil (Season 3)](https://img.shields.io/badge/23-Daredevil_(Season_3)-F0131E?style=for-the-badge)]()
-[![24 The Punisher (Season 2)](https://img.shields.io/badge/24-The_Punisher_(Season_2)-F0131E?style=for-the-badge)]()
-[![25 Jessica Jones (Season 3)](https://img.shields.io/badge/25-Jessica_Jones_(Season_3)-F0131E?style=for-the-badge)]()
+[![13 Daredevil (Season 1)](https://img.shields.io/badge/13-Daredevil_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-daredevil/1260091261)
+[![14 Jessica Jones (Season 1)](https://img.shields.io/badge/14-Jessica_Jones_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-jessica-jones/1260089834)
+[![15 Daredevil (Season 2)](https://img.shields.io/badge/15-Daredevil_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-daredevil/1260091261)
+[![16 Luke Cage (Season 1)](https://img.shields.io/badge/16-Luke_Cage_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-luke-cage/1260091266)
+[![17 Iron Fist (Season 1)](https://img.shields.io/badge/17-Iron_Fist_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-iron-fist/1260091270)
+[![18 The Defenders](https://img.shields.io/badge/18-The_Defenders-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-the-defenders/1260091248)
+[![19 The Punisher (Season 1)](https://img.shields.io/badge/19-The_Punisher_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-the-punisher/1260091274)
+[![20 Jessica Jones (Season 2)](https://img.shields.io/badge/20-Jessica_Jones_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-jessica-jones/1260089834)
+[![21 Luke Cage (Season 2)](https://img.shields.io/badge/21-Luke_Cage_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-luke-cage/1260091266)
+[![22 Iron Fist (Season 2)](https://img.shields.io/badge/22-Iron_Fist_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-iron-fist/1260091270)
+[![23 Daredevil (Season 3)](https://img.shields.io/badge/23-Daredevil_(Season_3)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-daredevil/1260091261)
+[![24 The Punisher (Season 2)](https://img.shields.io/badge/24-The_Punisher_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-the-punisher/1260091274)
+[![25 Jessica Jones (Season 3)](https://img.shields.io/badge/25-Jessica_Jones_(Season_3)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/marvels-jessica-jones/1260089834)
 
 <h1 align="center"> Phase 3 </h1>
 
@@ -52,22 +54,22 @@
 
 <h1 align="center"> Phase 4 </h1>
 
-[![37 WandaVision](https://img.shields.io/badge/37-WandaVision-F0131E?style=for-the-badge)]()
-[![38 The Falcon and the Winter Soldier](https://img.shields.io/badge/38-The_Falcon_and_the_Winter_Soldier-F0131E?style=for-the-badge)]()
-[![39 Loki (Season 1)](https://img.shields.io/badge/39-Loki_(Season_1)-F0131E?style=for-the-badge)]()
+[![37 WandaVision](https://img.shields.io/badge/37-WandaVision-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/wandavision/1260051344)
+[![38 The Falcon and the Winter Soldier](https://img.shields.io/badge/38-The_Falcon_and_the_Winter_Soldier-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/the-falcon-and-the-winter-soldier/1260055670)
+[![39 Loki (Season 1)](https://img.shields.io/badge/39-Loki_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/loki/1260063451)
 [![40 Black Widow](https://img.shields.io/badge/40-Black_Widow-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/black-widow-2021/)
-[![41 What If...? (Season 1)](https://img.shields.io/badge/41-What_If...%3F_(Season_1)-F0131E?style=for-the-badge)]()
+[![41 What If...? (Season 1)](https://img.shields.io/badge/41-What_If...%3F_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/what-if/1260066057)
 [![42 Shang-Chi and the Legend of the Ten Rings](https://img.shields.io/badge/42-Shang--Chi_and_the_Legend_of_the_Ten_Rings-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/shang-chi-and-the-legend-of-the-ten-rings-2021/)
 [![43 Eternals](https://img.shields.io/badge/43-Eternals-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/eternals-2021/)
-[![44 Hawkeye](https://img.shields.io/badge/44-Hawkeye-F0131E?style=for-the-badge)]()
+[![44 Hawkeye](https://img.shields.io/badge/44-Hawkeye-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/hawkeye/1260073683)
 [![45 Spider-Man: No Way Home](https://img.shields.io/badge/45-Spider--Man:_No_Way_Home-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/spider-man-no-way-home-2021/)
-[![46 Moon Knight](https://img.shields.io/badge/46-Moon_Knight-F0131E?style=for-the-badge)]()
+[![46 Moon Knight](https://img.shields.io/badge/46-Moon_Knight-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/moon-knight/1260089681)
 [![47 Doctor Strange in the Multiverse of Madness](https://img.shields.io/badge/47-Doctor_Strange_in_the_Multiverse_of_Madness-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/doctor-strange-in-the-multiverse-of-madness-2022/)
-[![48 Ms. Marvel](https://img.shields.io/badge/48-Ms._Marvel-F0131E?style=for-the-badge)]()
+[![48 Ms. Marvel](https://img.shields.io/badge/48-Ms._Marvel-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/ms-marvel/1260098459)
 [![49 Thor: Love and Thunder](https://img.shields.io/badge/49-Thor:_Love_and_Thunder-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/thor-love-and-thunder-2022/)
-[![50 I Am Groot (Season 1)](https://img.shields.io/badge/50-I_Am_Groot_(Season_1)-F0131E?style=for-the-badge)]()
-[![51 She-Hulk: Attorney at Law](https://img.shields.io/badge/51-She--Hulk:_Attorney_at_Law-F0131E?style=for-the-badge)]()
-[![52 Werewolf by Night](https://img.shields.io/badge/52-Werewolf_by_Night-F0131E?style=for-the-badge)]()
+[![50 I Am Groot (Season 1)](https://img.shields.io/badge/50-I_Am_Groot_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/i-am-groot/1260146581)
+[![51 She-Hulk: Attorney at Law](https://img.shields.io/badge/51-She--Hulk:_Attorney_at_Law-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/she-hulk-attorney-at-law/1260103788)
+[![52 Werewolf by Night](https://img.shields.io/badge/52-Werewolf_by_Night-000000?style=for-the-badge)]()
 [![53 Black Panther: Wakanda Forever](https://img.shields.io/badge/53-Black_Panther:_Wakanda_Forever-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/black-panther-wakanda-forever-2022/)
 [![54 The Guardians of the Galaxy Holiday Special](https://img.shields.io/badge/54-The_Guardians_of_the_Galaxy_Holiday_Special-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/the-guardians-of-the-galaxy-holiday-special-2022/)
 
@@ -75,43 +77,43 @@
 
 [![55 Ant-Man and the Wasp: Quantumania](https://img.shields.io/badge/55-Ant--Man_and_the_Wasp:_Quantumania-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/ant-man-and-the-wasp-quantumania-2023/)
 [![56 Guardians of the Galaxy Vol. 3](https://img.shields.io/badge/56-Guardians_of_the_Galaxy_Vol._3-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/guardians-of-the-galaxy-vol-3-2023/)
-[![57 Secret Invasion](https://img.shields.io/badge/57-Secret_Invasion-F0131E?style=for-the-badge)]()
-[![58 Loki (Season 2)](https://img.shields.io/badge/58-Loki_(Season_2)-F0131E?style=for-the-badge)]()
+[![57 Secret Invasion](https://img.shields.io/badge/57-Secret_Invasion-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/secret-invasion/1260111182)
+[![58 Loki (Season 2)](https://img.shields.io/badge/58-Loki_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/loki/1260063451)
 [![59 The Marvels](https://img.shields.io/badge/59-The_Marvels-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/the-marvels-2023/)
-[![60 What If...? (Season 2)](https://img.shields.io/badge/60-What_If...%3F_(Season_2)-F0131E?style=for-the-badge)]()
-[![61 Echo](https://img.shields.io/badge/61-Echo-F0131E?style=for-the-badge)]()
+[![60 What If...? (Season 2)](https://img.shields.io/badge/60-What_If...%3F_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/what-if/1260066057)
+[![61 Echo](https://img.shields.io/badge/61-Echo-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/echo/1260157856)
 [![62 Deadpool & Wolverine](https://img.shields.io/badge/62-Deadpool_%26_Wolverine-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/deadpool-wolverine-2024/)
-[![63 Agatha All Along](https://img.shields.io/badge/63-Agatha_All_Along-F0131E?style=for-the-badge)]()
-[![64 What If...? (Season 3)](https://img.shields.io/badge/64-What_If...%3F_(Season_3)-F0131E?style=for-the-badge)]()
+[![63 Agatha All Along](https://img.shields.io/badge/63-Agatha_All_Along-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/agatha-all-along/1271321224)
+[![64 What If...? (Season 3)](https://img.shields.io/badge/64-What_If...%3F_(Season_3)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/what-if/1260066057)
 [![65 Captain America: Brave New World](https://img.shields.io/badge/65-Captain_America:_Brave_New_World-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/captain-america-brave-new-world-2025/)
-[![66 Daredevil: Born Again (Season 1)](https://img.shields.io/badge/66-Daredevil:_Born_Again_(Season_1)-F0131E?style=for-the-badge)]()
+[![66 Daredevil: Born Again (Season 1)](https://img.shields.io/badge/66-Daredevil:_Born_Again_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/daredevil-born-again/1271337449)
 [![67 Thunderbolts*](https://img.shields.io/badge/67-Thunderbolts*-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/thunderbolts-2025/)
 
 <h1 align="center"> Phase 6 </h1>
 
 [![68 The Fantastic Four: First Steps](https://img.shields.io/badge/68-The_Fantastic_Four:_First_Steps-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/the-fantastic-four-first-steps-2025/)
-[![69 Eyes of Wakanda](https://img.shields.io/badge/69-Eyes_of_Wakanda-F0131E?style=for-the-badge)]()
-[![70 Ironheart](https://img.shields.io/badge/70-Ironheart-F0131E?style=for-the-badge)]()
-[![71 Wonder Man](https://img.shields.io/badge/71-Wonder_Man-F0131E?style=for-the-badge)]()
-[![72 Daredevil: Born Again (Season 2)](https://img.shields.io/badge/72-Daredevil:_Born_Again_(Season_2)-F0131E?style=for-the-badge)]()
+[![69 Eyes of Wakanda](https://img.shields.io/badge/69-Eyes_of_Wakanda-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/eyes-of-wakanda/1271341046)
+[![70 Ironheart](https://img.shields.io/badge/70-Ironheart-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/ironheart/1271341039)
+[![71 Wonder Man](https://img.shields.io/badge/71-Wonder_Man-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/wonder-man/1271460125)
+[![72 Daredevil: Born Again (Season 2)](https://img.shields.io/badge/72-Daredevil:_Born_Again_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/daredevil-born-again/1271337449)
 [![73 Spider-Man: Brand New Day](https://img.shields.io/badge/73-Spider--Man:_Brand_New_Day-F0131E?style=for-the-badge)]()
 [![74 Avengers: Doomsday](https://img.shields.io/badge/74-Avengers:_Doomsday-F0131E?style=for-the-badge)]()
 
 <h1 align="center"> X-Men & Legacy Marvel Universe </h1>
 
-[![75 X-Men](https://img.shields.io/badge/75-X--Men-00529B?style=for-the-badge)]()
-[![76 X2: X-Men United](https://img.shields.io/badge/76-X2:_X--Men_United-00529B?style=for-the-badge)]()
-[![77 X-Men: The Last Stand](https://img.shields.io/badge/77-X--Men:_The_Last_Stand-00529B?style=for-the-badge)]()
-[![78 X-Men Origins: Wolverine](https://img.shields.io/badge/78-X--Men_Origins:_Wolverine-00529B?style=for-the-badge)]()
-[![79 X-Men: First Class](https://img.shields.io/badge/79-X--Men:_First_Class-00529B?style=for-the-badge)]()
-[![80 The Wolverine](https://img.shields.io/badge/80-The_Wolverine-00529B?style=for-the-badge)]()
-[![81 X-Men: Days of Future Past](https://img.shields.io/badge/81-X--Men:_Days_of_Future_Past-00529B?style=for-the-badge)]()
-[![82 Deadpool](https://img.shields.io/badge/82-Deadpool-00529B?style=for-the-badge)]()
-[![83 X-Men: Apocalypse](https://img.shields.io/badge/83-X--Men:_Apocalypse-00529B?style=for-the-badge)]()
-[![84 Logan](https://img.shields.io/badge/84-Logan-00529B?style=for-the-badge)]()
-[![85 Deadpool 2](https://img.shields.io/badge/85-Deadpool_2-00529B?style=for-the-badge)]()
-[![86 Dark Phoenix](https://img.shields.io/badge/86-Dark_Phoenix-00529B?style=for-the-badge)]()
-[![87 The New Mutants](https://img.shields.io/badge/87-The_New_Mutants-00529B?style=for-the-badge)]()
+[![75 X-Men](https://img.shields.io/badge/75-X--Men-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/x-men-2000/)
+[![76 X2: X-Men United](https://img.shields.io/badge/76-X2:_X--Men_United-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/x2-x-men-united-2003/)
+[![77 X-Men: The Last Stand](https://img.shields.io/badge/77-X--Men:_The_Last_Stand-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/x-men-the-last-stand-2006/)
+[![78 X-Men Origins: Wolverine](https://img.shields.io/badge/78-X--Men_Origins:_Wolverine-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/x-men-origins-wolverine-2009/)
+[![79 X-Men: First Class](https://img.shields.io/badge/79-X--Men:_First_Class-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/x-men-first-class-2011/)
+[![80 The Wolverine](https://img.shields.io/badge/80-The_Wolverine-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/the-wolverine-2013/)
+[![81 X-Men: Days of Future Past](https://img.shields.io/badge/81-X--Men:_Days_of_Future_Past-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/x-men-days-of-future-past-2014/)
+[![82 Deadpool](https://img.shields.io/badge/82-Deadpool-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/deadpool-2016/)
+[![83 X-Men: Apocalypse](https://img.shields.io/badge/83-X--Men:_Apocalypse-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/x-men-apocalypse-2016/)
+[![84 Logan](https://img.shields.io/badge/84-Logan-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/logan-2017/)
+[![85 Deadpool 2](https://img.shields.io/badge/85-Deadpool_2-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/deadpool-2-2018/)
+[![86 Dark Phoenix](https://img.shields.io/badge/86-Dark_Phoenix-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/x-men-dark-phoenix-2019/)
+[![87 The New Mutants](https://img.shields.io/badge/87-The_New_Mutants-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/the-new-mutants-2020/)
 [![88 Spider-Man](https://img.shields.io/badge/88-Spider--Man_(2002)-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/spider-man-2002/)
 [![89 Spider-Man 2](https://img.shields.io/badge/89-Spider--Man_2-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/spider-man-2-2004/)
 [![90 Spider-Man 3](https://img.shields.io/badge/90-Spider--Man_3-00529B?style=for-the-badge)](https://en.yts-official.biz/movies/spider-man-3-2007/)
