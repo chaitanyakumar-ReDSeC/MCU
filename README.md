@@ -69,7 +69,7 @@
 [![49 Thor: Love and Thunder](https://img.shields.io/badge/49-Thor:_Love_and_Thunder-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/thor-love-and-thunder-2022/)
 [![50 I Am Groot (Season 1)](https://img.shields.io/badge/50-I_Am_Groot_(Season_1)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/i-am-groot/1260146581)
 [![51 She-Hulk: Attorney at Law](https://img.shields.io/badge/51-She--Hulk:_Attorney_at_Law-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/she-hulk-attorney-at-law/1260103788)
-[![52 Werewolf by Night](https://img.shields.io/badge/52-Werewolf_by_Night-000000?style=for-the-badge)]()
+[![52 Werewolf by Night](https://img.shields.io/badge/52-Werewolf_by_Night-000000?style=for-the-badge)](https://d33v4339jhl8k0.cloudfront.net/docs/assets/5db059b32c7d3a7e9ae2eb7f/images/60dc88a905ff892e6bc2c4b3/img-1351-1572026083-1382501382.png)
 [![53 Black Panther: Wakanda Forever](https://img.shields.io/badge/53-Black_Panther:_Wakanda_Forever-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/black-panther-wakanda-forever-2022/)
 [![54 The Guardians of the Galaxy Holiday Special](https://img.shields.io/badge/54-The_Guardians_of_the_Galaxy_Holiday_Special-F0131E?style=for-the-badge)](https://en.yts-official.biz/movies/the-guardians-of-the-galaxy-holiday-special-2022/)
 
