@@ -96,8 +96,8 @@
 [![70 Ironheart](https://img.shields.io/badge/70-Ironheart-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/ironheart/1271341039)
 [![71 Wonder Man](https://img.shields.io/badge/71-Wonder_Man-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/wonder-man/1271460125)
 [![72 Daredevil: Born Again (Season 2)](https://img.shields.io/badge/72-Daredevil:_Born_Again_(Season_2)-F0131E?style=for-the-badge)](https://www.hotstar.com/in/shows/daredevil-born-again/1271337449)
-[![73 Spider-Man: Brand New Day](https://img.shields.io/badge/73-Spider--Man:_Brand_New_Day-F0131E?style=for-the-badge)]()
-[![74 Avengers: Doomsday](https://img.shields.io/badge/74-Avengers:_Doomsday-F0131E?style=for-the-badge)]()
+[![73 Spider-Man: Brand New Day](https://img.shields.io/badge/73-Spider--Man:_Brand_New_Day-F0131E?style=for-the-badge)](https://i1.sndcdn.com/artworks-000167087066-dgwbtf-t500x500.jpg)
+[![74 Avengers: Doomsday](https://img.shields.io/badge/74-Avengers:_Doomsday-F0131E?style=for-the-badge)](https://i1.sndcdn.com/artworks-000167087066-dgwbtf-t500x500.jpg)
 
 <h1 align="center"> X-Men & Legacy Marvel Universe </h1>
 
