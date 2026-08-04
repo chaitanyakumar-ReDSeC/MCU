@@ -51,7 +51,7 @@ export const PhaseFilter: React.FC<PhaseFilterProps> = ({
         {/* Action Controls */}
         <div className="flex flex-wrap items-center gap-3">
           {/* Availability Filter */}
-          <select
+          {/* <select
             value={filters.availability}
             onChange={(e) => setFilters(prev => ({ ...prev, availability: e.target.value as any }))}
             className="bg-[#111111] border border-[#222222] text-xs text-gray-300 rounded-md px-3 py-2 focus:outline-none focus:border-[#e23636] uppercase tracking-wider font-medium"
@@ -63,7 +63,7 @@ export const PhaseFilter: React.FC<PhaseFilterProps> = ({
             <option value="amazon-prime">On Amazon Prime Video</option>
             <option value="yts">On YTS</option>
             <option value="both">On Both Platforms</option>
-          </select>
+          </select> */}
 
           {/* Media Type Filter */}
           <select
