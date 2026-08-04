@@ -1,12 +1,16 @@
 export type PhaseCategory = 
+  | 'X-Men Universe'
   | 'Phase 1'
   | 'Phase 2'
   | 'The Defenders Saga'
   | 'Phase 3'
+  | 'Raimi Universe'
+  | 'Amazing Spider-Man Universe'
   | 'Phase 4'
+  | 'Spider-Verse'
   | 'Phase 5'
   | 'Phase 6'
-  | 'X-Men & Legacy Marvel Universe';
+  | 'Phase 7';
 
 export type MediaType = 'movie' | 'show' | 'special';
 
@@ -15,6 +19,7 @@ export type AvailabilityStatus = 'available' | 'unavailable' | 'unreleased';
 export interface MCUItem {
   id: string;
   order: number; // 1 to 95
+  Movie_count: string;
   title: string;
   phase: PhaseCategory;
   mediaType: MediaType;

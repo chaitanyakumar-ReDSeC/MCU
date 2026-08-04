@@ -86,7 +86,7 @@ export const MovieCard: React.FC<MovieCardProps> = ({ item, onSelect }) => {
             {/* Movie Counter on Left Hand Side */}
             <div className="flex items-center gap-1.5">
               <span className="font-mono text-[11px] font-black tracking-wider text-[#e23636] bg-[#e23636]/10 border border-[#e23636]/30 px-2 py-0.5 rounded shrink-0">
-                #{String(item.order).padStart(2, '0')}
+                #{String(item.Movie_count).padStart(2, '0')}
               </span>
             </div>
 

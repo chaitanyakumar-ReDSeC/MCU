@@ -68,7 +68,8 @@ export function parseMCUCSV(csvText: string): MCUItem[] {
     const cols = parseCSVRow(lines[i]);
     if (cols.length < 2) continue;
 
-    const orderNum = parseInt(cols[countIdx >= 0 ? countIdx : 0] || String(i), 10);
+    const movieCount = cols[countIdx >= 0 ? countIdx : 0] || String(i);
+    const orderNum = parseInt(movieCount.replace(/[^\d]/g, ''), 10);
     const title = cols[titleIdx >= 0 ? titleIdx : 1] || `Title ${orderNum}`;
     const phase = (cols[phaseIdx >= 0 ? phaseIdx : 2] || 'Phase 1') as PhaseCategory;
     const year = cols[yearIdx >= 0 ? yearIdx : 3] || '';
@@ -84,6 +85,7 @@ export function parseMCUCSV(csvText: string): MCUItem[] {
     items.push({
       id: `mcu-csv-${orderNum}`,
       order: isNaN(orderNum) ? i : orderNum,
+      Movie_count: movieCount,
       title,
       phase,
       mediaType: mediaType === 'show' || mediaType === 'special' ? mediaType : 'movie',
