@@ -105,7 +105,10 @@ export function parseMCUCSV(csvText: string): MCUItem[] {
 
 export async function fetchMCUFromCSV(): Promise<MCUItem[] | null> {
   try {
-    const response = await fetch('/mcu_catalog.csv?t=' + Date.now());
+    // Construct path using Vite's base URL (/MCU/)
+    const csvUrl = `${import.meta.env.BASE_URL}mcu_catalog.csv?t=${Date.now()}`;
+    const response = await fetch(csvUrl);
+    
     if (!response.ok) return null;
     const text = await response.text();
     const items = parseMCUCSV(text);
