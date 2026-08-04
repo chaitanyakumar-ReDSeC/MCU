@@ -1,0 +1,6 @@
+{
+  "name": "Marvel Cinematic Universe",
+  "description": "Complete Marvel Cinematic Universe and Legacy Marvel directory with Hotstar and YTS links in sequential order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["movie", "tv", "streaming"]
+}
