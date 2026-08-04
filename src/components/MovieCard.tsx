@@ -109,6 +109,9 @@ export const MovieCard: React.FC<MovieCardProps> = ({ item, onSelect }) => {
 
         {/* Streaming Action Links - Render strictly when URL exists in CSV */}
         <div className="flex flex-wrap items-center gap-1.5 pt-2.5 border-t border-[#22222e]">
+          <span className="w-full text-[10px] font-bold text-gray-400 uppercase tracking-wider mb-1.5">
+            Choose Platform
+          </span>
           {/* HOTSTAR */}
           {isHotstarAvailable && (
             <div className="flex-1 min-w-[75px]">
@@ -167,8 +170,8 @@ export const MovieCard: React.FC<MovieCardProps> = ({ item, onSelect }) => {
                 className="w-full inline-flex items-center justify-center gap-1 py-1.5 px-2 rounded-lg bg-gradient-to-r from-emerald-600 via-emerald-500 to-teal-700 hover:from-emerald-500 hover:to-teal-600 text-white uppercase text-[10px] font-extrabold tracking-wider transition-all shadow-md shadow-emerald-900/20 group/btn"
                 id={`yts-btn-${item.order}`}
               >
-                <Download className="w-3 h-3 group-hover/btn:translate-y-0.5 transition-transform" />
-                <span>YTS</span>
+                <Play className="w-3 h-3 fill-white group-hover/prime:scale-110 transition-transform" />
+                <span>Free</span>
               </a>
             </div>
           )}
