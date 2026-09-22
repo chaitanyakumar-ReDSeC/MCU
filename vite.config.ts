@@ -6,7 +6,7 @@ import { defineConfig } from 'vite';
 export default defineConfig(() => {
   return {
     // Base path matching your repository name for GitHub Pages deployment
-    base: '/MCU/',
+    base: './',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {

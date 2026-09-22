@@ -52,26 +52,7 @@ export const Header: React.FC<HeaderProps> = ({ catalogItems, isLoadedFromCSV = 
                   (e.currentTarget as HTMLImageElement).src = 'https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/marvel-studios.png';
                 }}
               />
-              {/* {isLoadedFromCSV && (
-                <span className="hidden sm:inline-flex items-center gap-1 text-[10px] font-mono font-bold bg-emerald-950/80 text-emerald-400 border border-emerald-500/30 px-2 py-0.5 rounded-full">
-                  <Database className="w-2.5 h-2.5" />
-                  CSV Sync
-                </span>
-              )} */}
             </div>
-
-            {/* Credit Button */}
-            <a
-              href="https://github.com/chaitanyakumar-ReDSeC"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-[#14141d] hover:bg-[#1a1a26] border border-[#262638] hover:border-[#3a3a52] text-gray-300 hover:text-white text-xs font-semibold tracking-wide transition-all duration-200 group shadow-sm"
-              id="github-credit-btn"
-            >
-              <Github className="w-3.5 h-3.5 text-[#e23636] group-hover:scale-110 transition-transform" />
-              <span>Created by <strong className="text-white font-mono">chaitanyakumar-ReDSeC</strong></span>
-              <ExternalLink className="w-3 h-3 text-gray-500 group-hover:text-gray-300 transition-colors" />
-            </a>
           </div>
 
           {/* Interactive Dynamic Counter Dropdown */}
@@ -188,26 +169,21 @@ export const Header: React.FC<HeaderProps> = ({ catalogItems, isLoadedFromCSV = 
                     </div>
                   )}
                 </div>
-
-                {/* CSV File direct link */}
-                {/* <div className="mt-3 pt-2.5 border-t border-[#222230] flex items-center justify-between text-[11px] text-gray-400">
-                  <div className="flex items-center gap-1.5 text-gray-400">
-                    <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />
-                    <span>Loaded from <code className="text-amber-300 font-mono text-[10px]">/mcu_catalog.csv</code></span>
-                  </div>
-                  <a
-                    href="/mcu_catalog.csv"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1 text-[#e23636] hover:underline font-bold"
-                  >
-                    CSV File <ExternalLink className="w-3 h-3" />
-                  </a>
-                </div> */}
               </div>
             )}
           </div>
-
+          {/* Credit Button */}
+            <a
+              href="https://github.com/chaitanyakumar-ReDSeC"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-3 py-1 rounded-lg bg-[#14141d] hover:bg-[#1a1a26] border border-[#262638] hover:border-[#3a3a52] text-gray-300 hover:text-white text-xs font-semibold tracking-wide transition-all duration-200 group shadow-sm"
+              id="github-credit-btn"
+            >
+              <Github className="w-3.5 h-3.5 text-[#e23636] group-hover:scale-110 transition-transform" />
+              <span><strong className="text-white font-mono">chaitanyakumar-ReDSeC</strong></span>
+              <ExternalLink className="w-3 h-3 text-gray-500 group-hover:text-gray-300 transition-colors" />
+            </a>
         </div>
       </div>
     </header>
